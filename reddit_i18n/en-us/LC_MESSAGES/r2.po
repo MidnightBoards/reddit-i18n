@@ -197,15 +197,15 @@ msgstr "we power awesome communities."
 #: ../../about/reddit_about/about.py:65 ../../about/reddit_about/pages.py:20
 #: ../../about/reddit_about/pages.py:26
 msgid "about reddit"
-msgstr "about reddit"
+msgstr "about Midnight"
 
 #: ../../about/reddit_about/about.py:89
 msgid "we spend our days building reddit."
-msgstr "we spend our days building reddit."
+msgstr "we spend our days building Midnight."
 
 #: ../../about/reddit_about/about.py:90
 msgid "about the reddit team"
-msgstr "about the reddit team"
+msgstr "about the Midnight team"
 
 #: ../../about/reddit_about/about.py:99
 #, python-format
